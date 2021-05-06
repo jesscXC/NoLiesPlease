@@ -1,8 +1,9 @@
+
 # NoLiesPlease
 
 [NoLiesPlease.com](http://noliesplease.com)
 <br>
-devved by Jess Cummins
+devved by Jess Cummins (@jesscxc)
 
 Essays, rambles, etc for accelerating life.
 
