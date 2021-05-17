@@ -1,5 +1,5 @@
 
-# NoLiesPlease
+# No Lies Please
 
 [NoLiesPlease.com](http://noliesplease.com)
 <br>
@@ -7,17 +7,17 @@ devved by Jess Cummins (@jesscxc)
 
 Essays, rambles, etc for accelerating life.
 
-[Natural Will: Freer Than Free Will](https://jesscxc.github.io/book_natural-will-freer-than-free-will/)
+[Fortunate: How to Be](https://jesscxc.github.io/Fortunate_-_How_to_Be/)
 
-[Fortunate: How to Be](https://jesscxc.github.io/book_fortunate-how-to-be/)
+[Attuned: Be What You Imagine](https://jesscxc.github.io/Attuned_-_Be_What_You_Imagine/)
 
-[Longgame Mindtech: Guided Meditations for Increasing Creativity](https://jesscxc.github.io/Longgame-mindtech/)
+[Natural Will: Freer Than Free Will](https://jesscxc.github.io/Natural_Will_-_Freer_Than_Free_Will/)
 
-[Poem Moves the Pen: Haiku of a Nondual Nature](https://jesscxc.github.io/book_poem-moves-the-pen/)
+[Longgame Mindtech: Guided Meditations for Increasing Creativity](https://jesscxc.github.io/Longgame_Mindtech/)
 
-[jPhorisms: Before the Above](https://jesscxc.github.io/book_jphorisms-before-the-above/)
+[Poem Moves the Pen: Haiku of a Nondual Nature](https://jesscxc.github.io/Poem_Moves_the_Pen_-_Haiku_of_a_Nondual_Nature/)
 
-[Attuned: Be What You Imagine](https://jesscxc.github.io/book_attuned-be-what-you-imagine/)
+[Longgame Aphorisms](https://jesscxc.github.io/Longgame_Aphorisms/)
 
 ## License
 
